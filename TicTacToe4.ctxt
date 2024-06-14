@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TicTacToe4
+comment1.params=
+comment1.target=TicTacToe4()
+comment2.params=
+comment2.target=void\ resetGame()
+comment3.params=
+comment3.target=void\ checkWinner()
+comment4.params=player
+comment4.target=void\ updateScore(char)
+comment5.params=row1\ col1\ row2\ col2\ row3\ col3
+comment5.target=void\ highlightWinner(int,\ int,\ int,\ int,\ int,\ int)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
